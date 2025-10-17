@@ -19,7 +19,7 @@ Language        : Python 3.3
 Latest Revision : 26/03/2014
 Execute with    : python acs.py < acs.dat
 Updated by      : Andrea Mazzucchi
-Python Version  : 3.17
+Python Version  : 3.13
 Latest Revision : 17/10/2025
 Execute with    : python acs.py acs.dat
 """
